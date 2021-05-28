@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Project name="GSRI-Skydiving">
+	<Package name="GSRI-Skydiving-strings">
+		<Key ID="STR_GSRI_Skydiving_selectMode">
+			<Original>Simulation mode</Original>
+			<French>Mode de simulation</French>
+		</Key>
+		<Key ID="STR_GSRI_Skydiving_selectMode_tooltip">
+			<Original>Immersive mode will freeze the plane midair, allowing players to walk in it. Newtonian mode will not influence the plane's flight but will alter freefall trajectory of players in a realistic manner.</Original>
+			<French>Le mode immersif suspendra le vol de l'avion, permettant aux joueurs de marcher dans la soute. Le mode newtonien n'influe pas sur le vol de l'avion mais modifie la trajectoire de chute libre des joueurs de manière réaliste.</French>
+		</Key>
+		<Key ID="STR_GSRI_Skydiving_mode_newtonian">
+			<Original>Newtonian</Original>
+			<French>Newtonien</French>
+		</Key>
+		<Key ID="STR_GSRI_Skydiving_mode_immersive">
+			<Original>Immersive</Original>
+			<French>Immersif</French>
+		</Key>
+    </Package>
+</Project>
