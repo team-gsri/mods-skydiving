@@ -1,3 +1,5 @@
+if!(gsri_skydiving_enabled) exitWith {};
+
 // Two main modes : newtonian, or realistic.
 params ["_unit", "_role", "_vehicle", "_turret"];
 
