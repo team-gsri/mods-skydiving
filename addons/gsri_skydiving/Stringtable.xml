@@ -32,4 +32,10 @@
 			<French>Déployer un marqueur</French>
 		</Key>
     </Package>
+	<Package name="GSRI-Skydiving-wind">
+		<Key ID="STR_GSRI_Skydiving_windInfo">
+			<Original>Show/hide wind direction</Original>
+			<French>Afficher/masquer sens du vent</French>
+		</Key>
+    </Package>
 </Project>

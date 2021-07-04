@@ -27,5 +27,11 @@ class CfgFunctions {
 			class markerDeploy {};
 			class markerInsertChildren {};
 		};
+		class wind {
+			file = "fr\gsri\skydiving\functions\wind";
+			class windInit { postInit = 1 };
+			class displayWindInfo {};
+			class calculateWindSpeed {};
+		};
     };
 };
