@@ -26,4 +26,10 @@
 			<French>Immersif</French>
 		</Key>
     </Package>
+    <Package name="GSRI-Skydiving-markers">
+	    <Key ID="STR_GSRI_Skydiving_deployMarker">
+			<Original>Deploy a marker</Original>
+			<French>Déployer un marqueur</French>
+		</Key>
+    </Package>
 </Project>
