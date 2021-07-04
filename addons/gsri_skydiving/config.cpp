@@ -21,5 +21,11 @@ class CfgFunctions {
             class skydivingSettings {};
             class skydivingJump {};
         };
+		class markers {
+			file = "fr\gsri\skydiving\functions\markers";
+			class markerInit { postInit = 1 };
+			class markerDeploy {};
+			class markerInsertChildren {};
+		};
     };
 };
