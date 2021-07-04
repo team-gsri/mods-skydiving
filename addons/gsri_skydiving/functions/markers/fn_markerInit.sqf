@@ -6,5 +6,4 @@ private _actionMarkerRoot = [
 	{},
 	{true},
 	gsri_skydiving_fnc_markerInsertChildren] call ace_interact_menu_fnc_createAction;
-["Steerable_Parachute_F", 1, ["ACE_SelfActions"], _actionMarkerRoot, true] call ace_interact_menu_fnc_addActionToClass;
-// ParachuteBase
+["ParachuteBase", 1, ["ACE_SelfActions"], _actionMarkerRoot, true] call ace_interact_menu_fnc_addActionToClass;
