@@ -1,3 +1,18 @@
+/*
+ * Author: www.gsri.team
+ * Internal workings of the ACE action allowing to chose a marker type based on the player's inventory.
+ *
+ * Arguments:
+ ** ACE action standards, see https://ace3mod.com/wiki/framework/interactionMenu-framework.html
+ *
+ * Return Value:
+ ** _actions : an array of action parameters for each available marker type.
+ *
+ * Example:
+ * [player] call gsri_skydiving_fnc_markerInsertChildren
+ *
+ * Public: No
+ */
 params ["_target", "_player", "_params"];
 private _availableMarkers = magazines player select { (_x call BIS_fnc_itemType) # 1 == "SmokeShell" };
 private _availableMarkersUnique = [];

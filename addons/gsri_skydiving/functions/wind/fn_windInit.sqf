@@ -1,3 +1,19 @@
+/*
+ * Author: www.gsri.team
+ * Initialize ACE action usable by players travelling under a parachute, allowing them to view a rough estimation of wind direction relative to their head.
+ *
+ * Arguments:
+ * None
+ *
+ * Return Value:
+ * None
+ *
+ * Example:
+ * None, autostarted in postInit phase, see CfgFunctions > gsri_skydiving > wind > windInit
+ *
+ * Public: No
+ */
+
 // Adds action to display wind info while under parachute
 private _actionWindInfo = [
   "gsri_skydiving_windInfo",
