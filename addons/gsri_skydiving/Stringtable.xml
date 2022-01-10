@@ -1,41 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Project name="GSRI-Skydiving">
-	<Package name="GSRI-Skydiving-strings">
-	<Key ID="STR_GSRI_Skydiving_enabled">
-			<Original>Simulation is enabled</Original>
-			<French>Simulation activée</French>
-		</Key>
-		<Key ID="STR_GSRI_Skydiving_enabled_tooltip">
-			<Original>If enabled, player's trajectory will be influenced when existing a flying aircraft. If disabled, the default, vanilla behaviour is applied.</Original>
-			<French>Si activé, la trajectoire du joueur sortant d'un appareil en vol sera modifiée. Si désactivé, le comportement vanilla s'applique sans modification.</French>
-		</Key>
-		<Key ID="STR_GSRI_Skydiving_selectMode">
-			<Original>Simulation mode</Original>
-			<French>Mode de simulation</French>
-		</Key>
-		<Key ID="STR_GSRI_Skydiving_selectMode_tooltip">
-			<Original>Newtonian mode will alter freefall trajectory of players in a realistic manner. It is the only simulation mode currently supported.</Original>
-			<French>Le mode newtonien modifie la trajectoire de chute libre des joueurs de manière réaliste. Il s'agit du seul mode de simulation actuellement disponible.</French>
-		</Key>
-		<Key ID="STR_GSRI_Skydiving_mode_newtonian">
-			<Original>Newtonian</Original>
-			<French>Newtonien</French>
-		</Key>
-		<Key ID="STR_GSRI_Skydiving_mode_immersive">
-			<Original>Immersive</Original>
-			<French>Immersif</French>
-		</Key>
-    </Package>
-    <Package name="GSRI-Skydiving-markers">
-	    <Key ID="STR_GSRI_Skydiving_deployMarker">
-			<Original>Deploy a marker</Original>
-			<French>Déployer un marqueur</French>
-		</Key>
-    </Package>
-	<Package name="GSRI-Skydiving-wind">
-		<Key ID="STR_GSRI_Skydiving_windInfo">
-			<Original>Show/hide wind direction</Original>
-			<French>Afficher/masquer sens du vent</French>
-		</Key>
-    </Package>
+  <Package name="GSRI-Skydiving-strings">
+    <Key ID="STR_GSRI_Skydiving_enabled">
+      <Original>Simulation is enabled</Original>
+      <French>Simulation activée</French>
+    </Key>
+    <Key ID="STR_GSRI_Skydiving_enabled_tooltip">
+      <Original>If enabled, player's trajectory will be influenced when existing a flying aircraft. If disabled, the default, vanilla behaviour is applied.</Original>
+      <French>Si activé, la trajectoire du joueur sortant d'un appareil en vol sera modifiée. Si désactivé, le comportement vanilla s'applique sans modification.</French>
+    </Key>
+  </Package>
+  <Package name="GSRI-Skydiving-markers">
+    <Key ID="STR_GSRI_Skydiving_deployMarker">
+      <Original>Deploy a marker</Original>
+      <French>Déployer un marqueur</French>
+    </Key>
+  </Package>
+  <Package name="GSRI-Skydiving-wind">
+    <Key ID="STR_GSRI_Skydiving_windInfo">
+      <Original>Show/hide wind direction</Original>
+      <French>Afficher/masquer sens du vent</French>
+    </Key>
+  </Package>
 </Project>
