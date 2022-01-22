@@ -7,8 +7,9 @@ This mod improves freefall experience when jumping out of airplanes. When active
 The following documents provide information on rules and standards applying to this project :
 * [MIT license](../LICENSE.md)
 * [Usage guide](./USAGE.md)
-* Workshop page (FIXME)
-* BI forums page (FIXME)
+* [Github repostiory](https://github.com/team-gsri/GSRI-Skydiving) <= you are here
+* [Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=2725922493)
+* [BI forums page](https://forums.bohemia.net/forums/topic/237392-gsri-skydiving/)
 
 The following documents provide information on rules and standards applying to this organization :
 * [GSRI Code of conduct](https://github.com/team-gsri/.github/blob/master/CODE_OF_CONDUCT.md)
