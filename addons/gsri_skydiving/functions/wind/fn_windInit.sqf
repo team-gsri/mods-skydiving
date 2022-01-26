@@ -14,6 +14,8 @@
  * Public: No
  */
 
+if!(isClass (configFile >> "CfgPatches" >> "ace_interact_menu")) exitWith {};
+
 // Adds action to display wind info while under parachute
 private _actionWindInfo = [
   "gsri_skydiving_windInfo",
