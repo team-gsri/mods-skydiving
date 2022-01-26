@@ -13,6 +13,9 @@
  *
  * Public: No
  */
+
+if!(isClass (configFile >> "CfgPatches" >> "ace_interact_menu")) exitWith {};
+
 private _actionMarkerRoot = [
   "gsri_skydiving_deployMarker",
   localize "STR_GSRI_Skydiving_deployMarker",
