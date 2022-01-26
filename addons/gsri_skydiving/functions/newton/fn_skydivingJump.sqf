@@ -13,7 +13,8 @@
  *
  * Public: No
  */
- if!(gsri_skydiving_enabled) exitWith {};
+
+if!(gsri_skydiving_enabled) exitWith {};
 
 params ["_unit", "_role", "_vehicle", "_turret"];
 
