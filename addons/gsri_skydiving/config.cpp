@@ -35,3 +35,12 @@ class CfgFunctions {
     };
   };
 };
+
+class CfgSounds {
+  // Creative Commons, Eugene Everett, https://freesound.org/people/EugeneEverett/sounds/596522/
+  class gsri_skydiving_openParachute_sound {
+    name = "Parachute opening";
+    sound[] = {"fr\gsri\skydiving\sounds\parachute_opening.ogg", 5, 1};
+    titles[] = {0, ""};
+  };
+};
