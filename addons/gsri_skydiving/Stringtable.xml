@@ -9,6 +9,14 @@
       <Original>If enabled, player's trajectory will be influenced when existing a flying aircraft. If disabled, the default, vanilla behaviour is applied.</Original>
       <French>Si activé, la trajectoire du joueur sortant d'un appareil en vol sera modifiée. Si désactivé, le comportement vanilla s'applique sans modification.</French>
     </Key>
+    <Key ID="STR_GSRI_Skydiving_openParachute">
+      <Original>Open parachute</Original>
+      <French>Ouvrir le parachute</French>
+    </Key>
+    <Key ID="STR_GSRI_Skydiving_openParachute_tooltip">
+      <Original>While freefalling with a proper parachute, hitting this key will open it instantly.</Original>
+      <French>Pendant la chute libre avec un parachute fonctionnel, utiliser cette commande l'ouvrira instantanément.</French>
+    </Key>
   </Package>
   <Package name="GSRI-Skydiving-markers">
     <Key ID="STR_GSRI_Skydiving_deployMarker">
